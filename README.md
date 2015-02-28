@@ -1,5 +1,11 @@
 # Eventbrite OAuth2 Provider for Laravel Socialite
 
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/SocialiteProviders/Eventbrite.svg?style=flat-square)](https://scrutinizer-ci.com/g/SocialiteProviders/Eventbrite/?branch=master)
+[![Latest Stable Version](https://img.shields.io/packagist/v/socialiteproviders/eventbrite.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/eventbrite)
+[![Total Downloads](https://img.shields.io/packagist/dt/socialiteproviders/eventbrite.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/eventbrite)
+[![Latest Unstable Version](https://img.shields.io/packagist/vpre/socialiteproviders/eventbrite.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/eventbrite)
+[![License](https://img.shields.io/packagist/l/socialiteproviders/eventbrite.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/eventbrite)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
