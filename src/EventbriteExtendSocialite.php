@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Eventbrite;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
